@@ -6,7 +6,7 @@ REST API project for tracking and counting habits.
 
 - Python
 - FastAPI
-- SQLAlchemy (async)
+- SQLAlchemy (async) 
 - PostgreSQL
 - Pydantic
 - Alembic
